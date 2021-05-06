@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Przemek
-- 📫 You can write to my at przemek@reddog.systems
+- 📫 You can write to me at przemek@reddog.systems
 
 <!---
 pb-86/pb-86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
