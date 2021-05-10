@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Przemek
+- 👋 Hi, my name is Przemek. I'm a webdeveloper and webdesigner. I live and work in Łódź, Poland.
 - 📫 You can write to me at przemek@reddog.systems if you want hire me, send a complaint or just chat.
+- 🌐 You can also visit my website https://reddog.systems (currently only in Polish).
 
 <!---
 pb-86/pb-86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
